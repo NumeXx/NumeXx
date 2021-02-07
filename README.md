@@ -1,8 +1,6 @@
 ## Hi There😉 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=NumeXx&show_icons=true&theme=radical)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=NumeXx&repo=manga_mint&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=NumeXx&repo=manga-api&theme=nightowl)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=NumeXx&layout=compact&theme=nightowl)
 
 <a href="https://www.instagram.com/_numex._" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
