@@ -7,9 +7,9 @@
 
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-![github stats](https://github-readme-stats.vercel.app/api?username=BailleysCoders&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=NumeXx&show_icons=true&theme=radical)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=NumeXx&layout=compact&theme=radical)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=NumeXx&repo=&theme=radical)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=NumeXx&repo=SQL-ScanCrack&theme=radical)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314iqaa5wlnytjblf2yfa4es5aly&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=314iqaa5wlnytjblf2yfa4es5aly&redirect=true)
 ## TROPHIES
 <p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=NumeXx&row=3&column=3"/>
@@ -25,9 +25,9 @@
 <details>
   <summary><b>SUPPORT <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="14px"></b></summary>
   <p align="center">
-    <i>Ayo Support Kami Dalam Pembuatan Bot!!!</i><br><br>
-    <a href="https://twitter.com/BailleysCoders" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="n1ghtpe0ple420" height="30" width="40" /></a>
-   <a href="https://instagram.com/vz.vinz12" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="putra.go.id" height="30" width="40" /></a>
- <a href="https://gmail.com/BailleysCoders" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="putra.go.id" height="30" width="40" /></a>
+    <i>Supportnya Bang!!!</i><br><br>
+    <a href="https://twitter.com/NumeX" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="n1ghtpe0ple420" height="30" width="40" /></a>
+   <a href="https://instagram.com/_numex._" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="putra.go.id" height="30" width="40" /></a>
+ <a href="https://gmail.com/numexbot" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="putra.go.id" height="30" width="40" /></a>
   </p>
 </details>
