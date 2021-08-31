@@ -5,7 +5,7 @@
 - Python
 - C#
 
-<img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="center" fit="fill" alt="GIF" src="https://c.tenor.com/NOYF3f82b_gAAAAM/programmer.gif" />
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=NumeXx&show_icons=true&theme=radical)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=NumeXx&layout=compact&theme=radical)
