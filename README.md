@@ -21,7 +21,7 @@
 </details>
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)![Python Badge](https://img.shields.io/badge/-python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)![Python Badge](https://img.shields.io/badge/-python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 <details>
   <summary><b>SUPPORT <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="14px"></b></summary>
   <p align="center">
