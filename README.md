@@ -11,7 +11,7 @@
       - Python : `Master`
       - Node JS : `Intermediate`
       - C# : `Intermediate`
-# Goals:
+## Goals:
   - Mastering `Node JS & C#`
   - Getting better at `making algorithms`
   - Becoming an `Ethical Hacker`
