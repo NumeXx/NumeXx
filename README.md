@@ -17,4 +17,4 @@
   - Becoming an `Ethical Hacker`
 
 ## Banner
-[![NumeX](https://f.top4top.io/p_2076hjfkl1.png)](https://github.com/NumeXx)
+[![NumeX](https://i.top4top.io/p_2076zko6x1.jpg)](https://github.com/NumeXx)
