@@ -6,7 +6,7 @@
   - Name : `Christian`
   - Age : `19`
 - Advanced Information:
-  - Languages : `Python, C#, Node JS`
+  - Languages : [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
     - Level:
       - Python : `Master`
       - Node JS : `Intermediate`
