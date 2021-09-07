@@ -25,9 +25,8 @@
       - Node JS : `Intermediate`
 
 ## Goals:
-```py
-  print("Mastering {}".format(Node JS & C#))
-```
-```js
-  console.log(`Getting better at ${Making Algorithms}`)
+```bash
+> Mastering C# and Node JS
+> Mastering Ethical Hacking
+> Ortu Bangga
 ```
