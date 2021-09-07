@@ -26,7 +26,7 @@
 
 ## Goals:
 ```py
-  print("Mastering {Node JS & C#}")
+  print(f"Mastering {Node JS & C#}")
 ```
 
 ```js
