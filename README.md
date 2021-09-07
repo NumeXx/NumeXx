@@ -28,5 +28,4 @@
 ```bash
 > Mastering C# and Node JS
 > Mastering Ethical Hacking
-> Ortu Bangga
 ```
