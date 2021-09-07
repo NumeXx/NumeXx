@@ -1,3 +1,5 @@
+<center><a href="https://github.com/NumeXx"><img src="https://c.top4top.io/p_207623ve71.png" alt="NumeX"></a></center>
+
 ## Welcome😆
 `NumeX Was Here`
 
@@ -26,5 +28,3 @@
   - Mastering `Node JS & C#`
   - Getting better at `making algorithms`
   - Becoming an `Ethical Hacker`
-
-<img src="https://c.top4top.io/p_207623ve71.png">
