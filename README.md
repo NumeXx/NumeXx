@@ -12,7 +12,7 @@
   - Come From : `Indonesia Timur`
 
 ## Working ON
-> [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black)](https://www.python.org/) [![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=black)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/) [![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=black)](https://nodejs.org/en/docs/)
+> [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black)](https://www.python.org/) [![golang](https://img.shields.io/badge/Golang-3776AB?style=for-the-badge&logo=go&logoColor=black)](https://go.dev/) [![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=black)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/) [![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=black)](https://nodejs.org/en/docs/)
 
 ```golang
 package README.md
