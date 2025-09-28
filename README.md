@@ -1,5 +1,3 @@
-<img align="center" height="auto" src="https://i.imgur.com/SHitcKw.jpeg"/>
-
 <h1 align='center'> Hi there! :wave:</h1>
 <pre align='center'>NumeX Was Here</pre>
 
