@@ -1,5 +1,10 @@
-<h1 align='center'> Hi there! :wave:</h1>
-<pre align='center'>NumeX Was Here</pre>
+<p align="center">
+  <a href="https://ohmymex.sh/">
+    <img alt="title" src="https://raw.githubusercontent.com/ohmymex/ohmymex/refs/heads/main/mex.svg" />
+  </a>
+</p>
+
+---
 
 ```golang
 package README.md
