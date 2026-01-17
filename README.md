@@ -1,9 +1,6 @@
 <h1 align='center'> Hi there! :wave:</h1>
 <pre align='center'>NumeX Was Here</pre>
 
-**Bug Hunter · Penetration Tester · WordPress Security Researcher · Developer**  
-_Responsible disclosure · PoC-driven_
-
 ```golang
 package README.md
 
